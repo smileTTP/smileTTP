@@ -5,8 +5,10 @@
 <br>
 
 <div align = "center">
-    <h2>About me</h2>
+    <h2> 🤓 About me</h2>
 
+<br>
+    👩🏻 She/Her
 <br>
     🎓 Degree(s): Mathematics & Computer Science
 <br>
