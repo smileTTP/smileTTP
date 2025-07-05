@@ -7,12 +7,10 @@
 <div align = "center">
     <h2>About me</h2>
 
-```sh
   > lifefetch
     🎓 Degree(s): Mathematics & Computer Science
     💻 Work: Full-Stack Web Developer
     📩 Email: smile.lily23@gmail.com
-```
 
 </div>
 
