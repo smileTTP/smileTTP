@@ -8,8 +8,11 @@
     <h2>About me</h2>
 
   > lifefetch
+<br>
     🎓 Degree(s): Mathematics & Computer Science
+<br>
     💻 Work: Full-Stack Web Developer
+<br>
     📩 Email: smile.lily23@gmail.com
 
 </div>
