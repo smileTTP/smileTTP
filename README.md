@@ -7,7 +7,6 @@
 <div align = "center">
     <h2>About me</h2>
 
-  > lifefetch
 <br>
     🎓 Degree(s): Mathematics & Computer Science
 <br>
