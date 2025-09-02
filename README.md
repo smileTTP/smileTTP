@@ -13,8 +13,6 @@
     🎓 Degree(s): Mathematics & Computer Science
 <br>
     💻 Work: Full-Stack Web Developer
-<br>
-    📩 Email: smile.lily23@gmail.com
 
 </div>
 
@@ -41,10 +39,4 @@
         <img alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 
-<br>
-
-<div align = "center">
-    <h3>🔗Connect</h3>
-    <a href = "mailto:smile.lily23@gmail.com">Email</a>
-</div>
 
