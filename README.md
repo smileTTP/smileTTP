@@ -1,10 +1,4 @@
 <div align = "center">
-    <h2> 🦋 SmileTTP </h2>
-</div>
-
-<br>
-
-<div align = "center">
     <h2> 🤓 About me</h2>
 
 <br>
