@@ -6,7 +6,7 @@
 <br>
     🎓 Degree(s): Mathematics & Computer Science
 <br>
-    💻 Work: Full-Stack Web Developer
+    💻 Full-Stack Web Developer
 
 </div>
 
