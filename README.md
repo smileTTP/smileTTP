@@ -34,6 +34,6 @@
 </div>
 <br/>
 <div align="center">
-    ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=smileTTP&show_icons=true&theme=dracula)
+    [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=smileTTP&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
