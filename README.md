@@ -33,8 +33,18 @@
         <img alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 <br/>
-
+<div align="center">
+    
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=smileTTP\&show_icons=true\&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) 
+    
+</div>
+<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smileTTP\&layout=compact\&theme=nightowl)
+
+</div>
+
+
+
 
 
