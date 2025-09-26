@@ -34,7 +34,7 @@
 </div>
 <br/>
 <div align="center">
-    <h2>🧰 Languages and Tools</h2>
+    <h2>📊 Stats</h2>
     
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=smileTTP\&show_icons=true\&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) 
     
