@@ -31,6 +31,7 @@
         <h4> Learning </h4>
         <img alt="tailwindcss" width="23px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
         <img alt="Sass" width="23px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+        <img alt="nextjs" width="23px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
     </div>
     <div>
         <h4> Familiar with </h4>
