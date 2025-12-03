@@ -9,7 +9,9 @@ I'm Ibtissam, a frontend developper.
 
 My main tech stack is nextjs (react), typescript and tailwind. Experimenting with mobile dev via Expo.
 
-Degree(s): Mathematics & Computer Science
+Degree(s): Mathematics & Computer Science.
+
+Certification(s): ALX ProDev Frontend.
 
 My latest project: [PELICULA](https://picturamovens.vercel.app/)
 
