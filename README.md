@@ -5,7 +5,7 @@
 </div>
 <br/>
 
-I'm Ibtissam, a frontend developper.
+I'm Ibtissam, a full-stack developer.
 
 My main tech stack is nextjs (react), typescript and tailwind. Experimenting with mobile dev via Expo.
 
