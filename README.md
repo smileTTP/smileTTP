@@ -37,6 +37,7 @@ My latest project: [PELICULA](https://picturamovens.vercel.app/)
 
 ## Mobile app dev
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=for-the-badge)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
 
 ## Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
