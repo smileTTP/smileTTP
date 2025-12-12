@@ -51,5 +51,4 @@ My latest project: [PELICULA](https://picturamovens.vercel.app/)
 ![Framer Motion](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=white&style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
 ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=white&style=for-the-badge)
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?logo=Aseprite&logoColor=7D929E&style=for-the-badge)
-![Affinity Studio](https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?logo=affinitystudio&logoColor=black&style=for-the-badge)
+
