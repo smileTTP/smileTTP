@@ -13,7 +13,7 @@ Degree(s): Mathematics & Computer Science.
 
 Certification(s): ALX ProDev Frontend.
 
-[My portfolio]([https://picturamovens.vercel.app/](https://portfolio-ibtissam.vercel.app/))
+[My portfolio]([https://portfolio-ibtissam.vercel.app/])
 
 <br/>
 
